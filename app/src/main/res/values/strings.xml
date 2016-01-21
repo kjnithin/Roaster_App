@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RoasterApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="textname">The Roaster</string>
+    <string name="edittextname">Name</string>
+    <string name="checkboxname">Thinks We Are Going Steady</string>
+    <string name="birthdaytextview">Birthday</string>
+    <string name="eyecolortextview">Eye Color</string>
+    <string name="shirtsizetextview">Shirt Size</string>
+    <string name="pantsizetextview">Pant Size</string>
+    <string name="shirttextview">Shirt Size</string>
+    <string name="shoesizetextview">Shoe Size</string>
+    <string name="submitbutton">Submit</string>
+    <string name="birthdaybutton">Set</string>
+    <string name="xs">XS</string>
+    <string name="small">S</string>
+    <string name="medium">M</string>
+    <string name="large">L</string>
+    <string name="xl">XL</string>
+    <string name="xxl">XXL</string>
+</resources>
